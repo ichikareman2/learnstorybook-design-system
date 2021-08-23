@@ -6,8 +6,8 @@ import { color, typography } from './shared/styles';
 import { easing } from './shared/animation';
 
 const Text = styled.span`
-  border: 10px solid red;
-  font-size: 20px;
+  display: inline-block;
+  vertical-align: top;
 `;
 
 const Loading = styled.span`
