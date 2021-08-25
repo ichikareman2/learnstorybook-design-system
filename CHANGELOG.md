@@ -1,5 +1,5 @@
 # v0.1.1 (Wed Aug 25 2021)
-
+- Created first version of the design system, with `Avatar`, `Badge`, `Button`, `Icon`, and `Link` components.
 #### 🐛 Bug Fix
 
 - add yarn test to chromatic workflow ([@ichikareman2](https://github.com/ichikareman2))
