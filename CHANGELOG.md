@@ -1,3 +1,15 @@
+# v0.1.2 (Thu Aug 26 2021)
+
+#### 🐛 Bug Fix
+
+- move index inside src [#4](https://github.com/ichikareman2/learnstorybook-design-system/pull/4) ([@ichikareman2](https://github.com/ichikareman2))
+
+#### Authors: 1
+
+- Kevin ([@ichikareman2](https://github.com/ichikareman2))
+
+---
+
 # v0.1.1 (Thu Aug 26 2021)
 
 #### 🐛 Bug Fix
